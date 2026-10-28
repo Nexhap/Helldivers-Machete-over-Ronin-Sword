@@ -8,7 +8,15 @@ If this does make your game perform worse, dm me on discord, **my contact is at 
 
 <details>
   <summary><b>Images</b></summary>
-  Add images here with " width="250" "
+  <b>Ronin:</b><br>
+  <img src="https://github.com/user-attachments/assets/222bc026-5d92-4829-8300-237e4136bc47" width="350"/><br>
+  <b>Ronin Prime:</b><br>
+  <img src="https://github.com/user-attachments/assets/4648574b-029c-4e62-a9de-dd25d6c6a88a" width="350"/><br>
+  
+  ---
+  
+  <img src="https://github.com/user-attachments/assets/7367e3de-924b-4df0-9edf-a48c9c0e39f9" width="500"/>
+  <img src="https://github.com/user-attachments/assets/56af2df8-fdf7-48d1-b3ae-3fca56131d4c" width="500"/>
 </details>
 
 ## Manual Installation:
