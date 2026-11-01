@@ -1,0 +1,6 @@
+{
+	"Name" : "Nexhap.HD2Machete",
+	"Description" : "Replaces Ronin & Ronin prime's sword with Helldivers 2 Machete",
+	"Version": "1.0.0",
+	"LoadPriority": 3
+}
