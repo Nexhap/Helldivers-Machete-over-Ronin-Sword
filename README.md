@@ -1,4 +1,4 @@
-**The Arrival of my First TitanFall 2 Mod is here!**  
+**My First TitanFall 2 Mod is Here!** (finally got around to uploading this) 
 
 # HD2 Machete
 Replaces both Ronin & Ronin Prime's sword with the HD2 machete
